@@ -1,6 +1,7 @@
-# Jolution Pull Request Template
+👋 Hello there and welcome to Jolution 👍
 
-Welcome to Jolution! Please read our [Code of Conduct](https://github.com/jolution/.github/blob/main/CODE_OF_CONDUCT.md) before opening a pull request. Filling out this template is required.
+**Please be sure to read he [Code of Conduct](https://github.com/jolution/.github/blob/main/CODE_OF_CONDUCT.md) before opening a pull request.**
+**Filling out the template is required.**
 
 ---
 
