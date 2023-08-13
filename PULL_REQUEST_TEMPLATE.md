@@ -11,26 +11,27 @@
 
 ### What type of PR is this ?
 
-- [ ] 🍕 Feature
-- [ ] 🐛 Bug Fix
-
 <!--
-- [ ] 📝 Documentation Update
-- [ ] 🎨 Style
-- [ ] 🧑‍💻 Code Refactor
-- [ ] 🔥 Performance Improvements
-- [ ] ✅ Test
-- [ ] 🤖 Build
-- [ ] 🔁 CI
-- [ ] 📦 Chore (Release)
-- [ ] ⏩ Revert
+🍕 Feature
+🐛 Bug Fix
+📝 Documentation Update
+🎨 Style
+🧑‍💻 Code Refactor
+🔥 Performance Improvements
+✅ Test
+🤖 Build
+🔁 CI
+📦 Chore (Release)
+⏩ Revert
 -->
 
 ### Change Impact
 
-- [ ] ✔️ Low
-- [ ] ⚠️ Moderate
-- [ ] 🔥 High
+<!--
+✔️ Low
+⚠️ Moderate
+🔥 High
+-->
 
 ### PR Description
 
@@ -63,26 +64,38 @@ e.g. NodeJS version, Angular version, etc.
 #### Added tests ?
 
 - [ ] 👍 yes
-- [ ] 🙅 no, because they aren't needed
-- [ ] 🙋 no, because I need help
-- [ ] 💬 to be discussed
+
+Describe if you cant say yes;
+
+<!--
+🙅 no, because they aren't needed
+🙋 no, because I need help
+💬 to be discussed
+-->
 
 #### Added to documentation ?
 
-- [ ] 📜 [README.md](README.md)
-- [ ] 📓 Confluence
-- [ ] 🙅 no documentation needed
-- [ ] 💬 to be discussed
+- [ ] 👍 yes
 
-<!-- - [ ] 📕 [Storybook](https://storybook.js.org/) -->
+Source:
+
+<!--
+📜 [README.md](README.md)
+📓 Confluence
+🙅 no documentation needed
+💬 to be discussed
+📕 [Storybook](https://storybook.js.org/)
+-->
 
 <!-- #### Are there any post-deployment tasks we need to perform ? -->
 
 #### What gif/mood best describes this PR or how it makes you feel ?
 
-- [ ] :godmode:
-- [ ] :suspect:
-- [ ] :rage1:
-- [ ] :rage2:
+<!--
+:godmode:
+:suspect:
+:rage1:
+:rage2:
+-->
 
 <!-- https://chrome.google.com/webstore/detail/gifs-for-github/dkgjnpbipbdaoaadbdhpiokaemhlphep -->
