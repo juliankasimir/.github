@@ -11,3 +11,11 @@
 💖 **Sponsorship & Contributions:** If you would like to support the project, please consider becoming a sponsor or contributor. Your support is greatly appreciated and helps keep the project running smoothly.
 
 🧙 **Employer Disclaimer:** I'd also like to note that I work at [Eviden](https://eviden.com/), a subsidiary of [Atos](https://atos.net/de/deutschland).
+
+---
+### Sponsorship
+
+We are proud to be sponsored by ATOS.
+Thank you, [Atos](https://atos.net/de/deutschland), for your generous support of the Jolution organization!
+
+<img src="https://raw.githubusercontent.com/DE-AMS-AD-VAPPS/brand/refs/heads/main/assets/atos_logo--blue.svg" alt="Atos Logo" width="150"/>
